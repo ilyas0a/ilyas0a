@@ -5,4 +5,3 @@ Config files for my GitHub profile.
 
 ###For more projects, enter my account, thank you
 
-@ilyas0a 
